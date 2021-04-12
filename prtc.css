@@ -1,0 +1,163 @@
+header {letter-spacing: 6px; 
+        background: royalblue; 
+       padding: 30px;
+}
+
+
+body {font-family: tahoma; 
+     text-align: center;}  
+
+ section {font-family: cursive;
+text-align: center; 
+background-color: coral; 
+padding: 20px;
+margin: 15px;
+}
+
+.card {
+border: 1px solid #ccc;
+background-color: deepskyblue;
+padding: 15px;
+margin: 10px;
+width: 310px;
+align-items: center;
+
+
+}
+
+
+section {font-family: inherit;
+text-align: center;
+background-color: darkseagreen;
+margin: 15px;
+padding: 25px;
+}
+
+@media screen and (min-width: 50em) 
+{ .card { 
+    flex-basis: 325px;
+color: hotpink}
+}
+
+.card { 
+border: 10px solid ;
+border-color: chocolate;
+background-color: burlywood;
+margin 25px;
+padding 25px;
+box-shadow: 6px 6px 6px  rgba(0,0,0,0.3);
+    align-content: center;
+
+}
+
+.card { 
+flex-basis: 325px;
+}
+
+.icons {
+font-size: 4em;
+padding: 10px;
+}
+
+.card {
+        margin: 10 auto; /* Added */
+        float:none; /* Added */
+        margin-bottom: 10px; /* Added */
+        width:70%;
+        border: 5px solid green;
+}
+
+
+
+td{
+    
+    width:25%;
+}
+
+
+.button, .container {
+    margin: 10px; 
+}
+
+button, .button {
+background: royalblue;
+border: 50px;
+border-color: floralwhite;
+color: white;
+padding: 10px;
+width: 100%;
+margin-bottom: 10px;
+}
+
+.blue {
+background: teal;
+}
+
+td {
+padding: 10px;
+}
+
+table {
+margin: auto;
+}
+
+<form 
+
+body {
+    text-align: center;
+}
+form {
+    display: inline-block;
+}
+
+
+}
+
+/* CSS ID */
+
+#my-order {
+background-color: ;
+padding: 25px;
+display: none;
+}
+
+/* HTML FORM BUTTON */
+
+<input class="button"
+type="button"
+value="Process Order"
+onclick="placeOrder();" >
+
+
+<input class="button" type="reset" value="Clear"
+onclick="document.getElementById('my-order').style.display = 'none'"; >
+
+
+
+<section { background-color: darkseagreen;
+}
+
+
+ 
+}
+
+
+
+footer
+{
+    background-color: gray;
+        padding:25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+</body> 
